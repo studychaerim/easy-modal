@@ -1,8 +1,8 @@
 {
   "name": "react-very-easy-modal",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "private": false,
-  "main": "dist/index.js",
+  "main": "index.js",
   "description": "easy modal library",
   "keywords": [
     "react",
@@ -20,7 +20,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-    "react-very-easy-modal": "^0.0.1",
+    "react-very-easy-modal": "*",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
