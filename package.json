@@ -1,8 +1,8 @@
 {
   "name": "react-very-easy-modal",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "private": false,
-  "main": "index.js",
+  "entry point": "index.js",
   "description": "easy modal library",
   "keywords": [
     "react",

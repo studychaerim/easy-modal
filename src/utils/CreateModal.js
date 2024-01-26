@@ -1,6 +1,6 @@
 import EasyModal from "../components/EasyModal";
 
-const CreateModal = () => {
+export function CreateModal() {
   return function EasymodalFactory({ isVisible, message, backgroundColor, duration, radius, width, height, color, bottom, left }) {
     return (
       <EasyModal 
@@ -17,5 +17,3 @@ const CreateModal = () => {
       />);
 };
 }
-
-export default CreateModal;
